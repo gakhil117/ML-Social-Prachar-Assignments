@@ -1,0 +1,66 @@
+K Nearest Neighbour Algorithm,
+S.No,Description
+1,Remove the unnessary columns
+2,EDA
+3,apply Normlization on input variables.    Wbcd n: input variable
+4,Spilt the data in to training & testing (using index numbers).
+5, Create labels for training & testing.
+6,Now build the model using the function “class”.
+7,"Evaluate model performance, using cross table of predict and actual.  Cross table(x= test, y=ypred)"
+8,If you need to tune the accuracy perform the another algorithm.
+,
+Support Vector Machine Algorithm,
+S.no,Description
+,It is useful in solving both classification and regression model.
+1, Upload the dataset.
+2, Remove the unnecessary columns. 
+3,Perform the eda on the dataset.
+4, Check for the outliers and missing values and replace them 
+5,Normalize the dataset.
+6,"Now, split the dataset in to training and testing."
+7,Build the model based on the training dataset.
+8,Predict the model using the testing dataset.
+9,Evaluate the accuracy using table or confusion matrix. 
+10,Increse the performance by tuning
+,
+Navies Bayes Algorithm,
+S.no,Description
+,It is useful in solving both classification and regression model.
+1,Upload the dataset.
+2,Remove the unnecessary columns.
+3,Perform the eda on the dataset.
+4,Check for the outliers and missing values and replace them.
+5,Normalize
+6,Split the dataset in to training and testing.
+7,Build the model based on the training dataset.
+8,Predict the model using the testing dataset.
+9,Evaluate the accuracy using a table or confusion matrix.
+10,tune the accuracy perform the another algorithm Using Transformation
+,
+Decision Tree Algorithm,
+S.no,Description
+,It is useful in solving both classification and regression model.
+1,Upload the dataset.
+2,Remove the unnecessary columns.
+3,Perform the eda on the dataset.
+4,Check for the outliers and missing values and replace them.
+5,Normalize the dataset.
+6,Now  split the dataset in to training and testing.
+7,"Build the decision tree model based on the training dataset using function ""c5.o"""
+8,Predict the model using the testing dataset.
+9,Evaluate the accuracy using table or confusion matrix.
+10,Tune the accuracy perform the Transformation
+,
+Random Forest Algorithm,
+S.No,Description
+,It is useful in solving both classification and regression model.
+2,Upload the dataset.
+3,Remove the unnecessary columns.
+4,Perform the eda on the dataset.
+5,Check for the outliers and missing values and replace them.
+6,Normalize the dataset.
+7,Now split the dataset in to training and testing.
+8,Build the random forest model based on the training dataset.
+9,Predict the model using the testing dataset.
+10,Evaluate the accuracy using table or confusion matrix.
+11,Tune the accuracy perform Transformation
